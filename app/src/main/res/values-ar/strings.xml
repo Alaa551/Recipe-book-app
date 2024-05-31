@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recipe Book App</string>
+    <string name="hello">اهلا بك</string>
+    <string name="what_are_you_cooking_today">ما هي طبختك اليوم</string>
+    <string name="home_menu">الصفحة الرئيسية</string>
+    <string name="category_menu">الاصناف</string>
+    <string name="categories_text">الاصناف</string>
+    <string name="ingredient_text">المكونات</string>
+    <string name="procedure_text">طريقة التحضير</string>
+    <string name="descending_sort">من الاعلي الي الاقل وقتا</string>
+    <string name="ascending_sort">من الاقل الي الاعلي وقتا</string>
+    <string name="search_text">البحث عن صنف معين...</string>
+    <string name="language">اللغة</string>
+    <string name="english">الانجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="theme">اللون</string>
+    <string name="light">مضئ</string>
+    <string name="dark">مظلم</string>
+    <string name="log_out">تسجيل الخروج</string>
+    <string name="send_rate">ارسال</string>
+    <string name="rate_us">قيم تطبيقنا</string>
+    <string name="select_image">اختر الصورة</string>
+    <string name="name_of_your_category">اسم الصنف الجديد</string>
+    <string name="recipe_time">الوقت الذي تحتاجه للتحضير</string>
+    <string name="recipe_procedure">طريق التحضير</string>
+    <string name="recipe_title">اسم الوصفة الجديدة</string>
+    <string name="write_ingredient_amount">كمية هذا المكون</string>
+    <string name="write_ingredient_name">اسم هذاالمكون</string>
+    <string name="add_new_ingredient">اضافة مكون جديد</string>
+    <string name="choose_category_to_add_in_it">اختر اسم الصنف الذي تريد الاضافة فيه</string>
+    <string name="search_recipe">البحث عن وصفة معينة</string>
+
+    <string-array name="filter">
+
+        <item></item>
+
+        <item>@string/ascending_sort</item>
+        <item>@string/descending_sort</item>
+
+    </string-array>
+
+
+</resources>

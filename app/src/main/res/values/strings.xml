@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Recipe Book App</string>
+    <string name="hello">Hello</string>
+    <string name="what_are_you_cooking_today">What are you cooking today?</string>
+    <string name="home_menu">Home</string>
+    <string name="category_menu">category</string>
+    <string name="categories_text">Categories</string>
+    <string name="ingredient_text">Ingredient</string>
+    <string name="procedure_text">Procedure</string>
+    <string name="descending_sort">highest to lowest time</string>
+    <string name="ascending_sort">lowest to highest time</string>
+    <string name="search_text">Search category...</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="log_out">log out</string>
+    <string name="send_rate">Send</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="select_image">Select image</string>
+    <string name="name_of_your_category">Name of your category</string>
+    <string name="recipe_time">Recipe Time</string>
+    <string name="recipe_procedure">Recipe Procedure</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="write_ingredient_amount">write ingredient amount</string>
+    <string name="write_ingredient_name">write ingredient name</string>
+    <string name="add_new_ingredient">Add new ingredient</string>
+    <string name="choose_category_to_add_in_it">choose category to add in it</string>
+    <string name="search_recipe">Search Recipe...</string>
+
+    <string-array name="filter">
+
+        <item></item>
+
+        <item>@string/ascending_sort</item>
+        <item>@string/descending_sort</item>
+
+    </string-array>
+
+
+</resources>
